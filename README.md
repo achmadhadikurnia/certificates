@@ -9,6 +9,8 @@ Discover the certificates I've earned from a variety of courses, training sessio
 
 ## Events that I have attended
 
+- **[GDSC iSTTS X Sosialisasi Bangkit 2024](dicoding-events/gdsc-istts-x-sosialisasi-bangkit-2024/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/7158) at Dec 9, 2023 | [View certificate](dicoding-events/gdsc-istts-x-sosialisasi-bangkit-2024/certificate/certificate.pdf)
+
 - **[Dicoding Developer Coaching #118 : DevOps Engineer | Continuous Integration](dicoding-events/developer-coaching-118-devops-engineer-continuous-integration/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/6938) at Dec 5, 2023 | [View certificate](dicoding-events/developer-coaching-118-devops-engineer-continuous-integration/certificate/certificate.pdf)
 
 - **[Roadmap To Be An Android Developer](dicoding-events/roadmap-to-be-an-android-developer/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/6938) at Dec 5, 2023 | [View certificate](dicoding-events/roadmap-to-be-an-android-developer/certificate/certificate.pdf)
