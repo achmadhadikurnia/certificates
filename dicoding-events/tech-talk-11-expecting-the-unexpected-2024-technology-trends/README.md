@@ -1,0 +1,17 @@
+# Tech Talk #11 - Expecting the Unexpected: 2024 Technology Trends
+Mengusung tagline Accelerate Your New Jobs, Dicoding Career Fair tahun ini hadir dengan fokus utama membantu mempercepat industri teknologi memperoleh tenaga kerja yang berkualitas, terampil, dan profesional. Hal ini tentunya tak terlepas dari misi Dicoding untuk mengakselerasi transisi Indonesia menuju dunia digital melalui pendidikan teknologi yang mentransformasi kehidupan.
+
+Melalui Dicoding Career Fair tentunya talenta digital dapat mempersiapkan diri serta mengetahui kesempatan pekerjaan melalui lowongan yang ditawarkan oleh berbagai perusahaan teknologi. Untuk memberi dukungan persiapan bagi talenta digital, di acara ini juga akan terdapat sesi materi teknis dari para praktisi industri yang handal di bidangnya yang terbagi dalam sesi Tech Talk dan Career Counseling.
+
+Pada sesi ini kita akan membahas insight ter-update dari industri teknologi dengan tema “Expecting the Unexpected: 2024 Technology Trends” bersama:
+
+Juan Kanggrawan
+Head of Data Analytics, Research & Digital Products
+
+Ridha Ginanjar
+Cloud Instructor at Dicoding
+
+[Get the details](https://www.dicoding.com/events/6703)
+
+## Certificate
+Nov 21, 2023 | [View](certificate/certificate.pdf)

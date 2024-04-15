@@ -11,6 +11,8 @@ Discover the certificates I've earned from a variety of courses, training sessio
 
 - **[Dicoding Developer Coaching #118 : DevOps Engineer | Continuous Integration](dicoding-events/developer-coaching-118-devops-engineer-continuous-integration/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/6938) at Dec 5, 2023 | [View certificate](dicoding-events/developer-coaching-118-devops-engineer-continuous-integration/certificate/certificate.pdf)
 
+- **[Tech Talk #11 - Expecting the Unexpected: 2024 Technology Trends](dicoding-events/tech-talk-11-expecting-the-unexpected-2024-technology-trends/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/6703) at Nov 21, 2023 | [View certificate](dicoding-events/tech-talk-11-expecting-the-unexpected-2024-technology-trends/certificate/certificate.pdf)
+
 - **[Career Counseling #11 - Planning and Choosing a Career Path for a Better Future](dicoding-events/career-counseling-11-planning-and-choosing-a-career-path-for-a-better-future/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/6708) at Nov 21, 2023 | [View certificate](dicoding-events/career-counseling-11-planning-and-choosing-a-career-path-for-a-better-future/certificate/certificate.pdf)
 
 - **[Cyber-Smart: Learning, Protecting, and Thriving in the Digital Era](dicoding-events/cyber-smart-learning-protecting-and-thriving-in-the-digital-era/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/6793) at Nov 7, 2023 | [View certificate](dicoding-events/cyber-smart-learning-protecting-and-thriving-in-the-digital-era/certificate/certificate.pdf)
