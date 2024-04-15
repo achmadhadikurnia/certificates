@@ -17,6 +17,8 @@ Discover the certificates I've earned from a variety of courses, training sessio
 
 - **[Roadmap To Be An Android Developer](dicoding-events/roadmap-to-be-an-android-developer/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/7193) at Dec 5, 2023 | [View certificate](dicoding-events/roadmap-to-be-an-android-developer/certificate/certificate.pdf)
 
+- **[Dicoding Developer Coaching #116: Machine Learning | Pengenalan Model Deployment dengan TensorFlow](dicoding-events/dicoding-developer-coaching-116-machine-learning-deployment-dengan-tensorflow/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/7123) at Nov 28, 2023 | [View certificate](dicoding-events/dicoding-developer-coaching-116-machine-learning-deployment-dengan-tensorflow/certificate/certificate.pdf)
+
 - **[Virtual Graduation dan Launching Lintasarta Cloudeka Digischool](dicoding-events/virtual-graduation-dan-launching-lintasarta-cloudeka-digischool/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/7063) at Nov 24, 2023 | [View certificate](dicoding-events/virtual-graduation-dan-launching-lintasarta-cloudeka-digischool/certificate/certificate.pdf)
 
 - **[Tech Talk #11 - Expecting the Unexpected: 2024 Technology Trends](dicoding-events/tech-talk-11-expecting-the-unexpected-2024-technology-trends/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/6703) at Nov 21, 2023 | [View certificate](dicoding-events/tech-talk-11-expecting-the-unexpected-2024-technology-trends/certificate/certificate.pdf)
