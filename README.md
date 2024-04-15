@@ -23,6 +23,8 @@ Discover the certificates I've earned from a variety of courses, training sessio
 
 - **[Career Counseling #11 - Planning and Choosing a Career Path for a Better Future](dicoding-events/career-counseling-11-planning-and-choosing-a-career-path-for-a-better-future/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/6708) at Nov 21, 2023 | [View certificate](dicoding-events/career-counseling-11-planning-and-choosing-a-career-path-for-a-better-future/certificate/certificate.pdf)
 
+- **[Dicoding Developer Coaching #112 : DevOps Engineer | Berkenalan dengan CI/CD](dicoding-events/dicoding-developer-coaching-112-devops-engineer-berkenalan-dengan-ci-cd/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/6933) at Nov 14, 2023 | [View certificate](dicoding-events/dicoding-developer-coaching-112-devops-engineer-berkenalan-dengan-ci-cd/certificate/certificate.pdf)
+
 - **[Cyber-Smart: Learning, Protecting, and Thriving in the Digital Era](dicoding-events/cyber-smart-learning-protecting-and-thriving-in-the-digital-era/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/6793) at Nov 7, 2023 | [View certificate](dicoding-events/cyber-smart-learning-protecting-and-thriving-in-the-digital-era/certificate/certificate.pdf)
 
 - **[Baparekraf Developer Day 2023](dicoding-events/baparekraf-developer-day-2023/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/5795) at Mar 18, 2023 | [View certificate](dicoding-events/baparekraf-developer-day-2023/certificate/certificate.pdf)
