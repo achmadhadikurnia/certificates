@@ -21,6 +21,8 @@ Discover the certificates I've earned from a variety of courses, training sessio
 
 - **[Tech Talk #11 - Expecting the Unexpected: 2024 Technology Trends](dicoding-events/tech-talk-11-expecting-the-unexpected-2024-technology-trends/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/6703) at Nov 21, 2023 | [View certificate](dicoding-events/tech-talk-11-expecting-the-unexpected-2024-technology-trends/certificate/certificate.pdf)
 
+- **[Dicoding Developer Coaching #114 : Machine Learning | Meramal Masa Depan Menggunakan Time Series](dicoding-events/dicoding-developer-coaching-114-ml-meramal-menggunakan-time-series/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/7043) at Nov 21, 2023 | [View certificate](dicoding-events/dicoding-developer-coaching-114-ml-meramal-menggunakan-time-series/certificate/certificate.pdf)
+
 - **[Career Counseling #11 - Planning and Choosing a Career Path for a Better Future](dicoding-events/career-counseling-11-planning-and-choosing-a-career-path-for-a-better-future/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/6708) at Nov 21, 2023 | [View certificate](dicoding-events/career-counseling-11-planning-and-choosing-a-career-path-for-a-better-future/certificate/certificate.pdf)
 
 - **[Dicoding Developer Coaching #113 : iOS | Menjelajah Dunia Pemrograman Swift](dicoding-events/dicoding-developer-coaching-113-ios-menjelajah-dunia-pemrograman-swift/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/6938) at Nov 17, 2023 | [View certificate](dicoding-events/dicoding-developer-coaching-113-ios-menjelajah-dunia-pemrograman-swift/certificate/certificate.pdf)
