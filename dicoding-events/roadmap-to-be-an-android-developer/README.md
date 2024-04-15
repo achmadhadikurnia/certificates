@@ -7,7 +7,7 @@ Mempelajari Android Developer adalah pintu menuju dunia inovasi teknologi mobile
 
 Pada sesi ketiga IDCamp x Dicoding LIVE kali ini akan memberikan wawasan tentang Android Developer mulai dari hal-hal dasar, tips dan tantangan hingga karir seorang Android Developer bersama seseorang yang berpengalaman dibidang software engineer android yaitu Irpan  (Software Engineer Android at Tokopedia). Di sesi kali ini kita akan kupas tuntas mengenai Android Developer dan seluk-beluknya "Roadmap To Be An Android Developer"
 
-[Get the details](https://www.dicoding.com/events/6938)
+[Get the details](https://www.dicoding.com/events/7193)
 
 ## Certificate
 Dec 5, 2023 | [View](certificate/certificate.pdf)
