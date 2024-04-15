@@ -12,4 +12,3 @@ Discover the certificates I've earned from a variety of courses, training sessio
 - **[Baparekraf Developer Day 2023](dicoding-events/baparekraf-developer-day-2023/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/5795) at Maret 18, 2023 | [View certificate](dicoding-events/baparekraf-developer-day-2023/certificate/certificate.pdf)
 
 - **[AWS x Dicoding LIVE : "Container 101"](dicoding-events/aws-x-dicoding-live-container-101/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/5980) at Maret 17, 2023 | [View certificate](dicoding-events/aws-x-dicoding-live-container-101/certificate/certificate.pdf)
-
