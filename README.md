@@ -17,6 +17,8 @@ Discover the certificates I've earned from a variety of courses, training sessio
 
 - **[Roadmap To Be An Android Developer](dicoding-events/roadmap-to-be-an-android-developer/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/7193) at Dec 5, 2023 | [View certificate](dicoding-events/roadmap-to-be-an-android-developer/certificate/certificate.pdf)
 
+- **[Dicoding Developer Coaching #117 : iOS | Membuat Aplikasi iOS Pertama dalam Satu Jam!](dicoding-events/dicoding-developer-coaching-117-ios-membuat-aplikasi-ios-pertama-dalam-satu-jam/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/7148) at Dec 1, 2023 | [View certificate](dicoding-events/dicoding-developer-coaching-117-ios-membuat-aplikasi-ios-pertama-dalam-satu-jam/certificate/certificate.pdf)
+
 - **[Dicoding Developer Coaching #116: Machine Learning | Pengenalan Model Deployment dengan TensorFlow](dicoding-events/dicoding-developer-coaching-116-machine-learning-deployment-dengan-tensorflow/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/7123) at Nov 28, 2023 | [View certificate](dicoding-events/dicoding-developer-coaching-116-machine-learning-deployment-dengan-tensorflow/certificate/certificate.pdf)
 
 - **[Virtual Graduation dan Launching Lintasarta Cloudeka Digischool](dicoding-events/virtual-graduation-dan-launching-lintasarta-cloudeka-digischool/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/7063) at Nov 24, 2023 | [View certificate](dicoding-events/virtual-graduation-dan-launching-lintasarta-cloudeka-digischool/certificate/certificate.pdf)
