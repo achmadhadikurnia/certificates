@@ -10,4 +10,4 @@ Peserta Baparekraf Developer Day 2023 akan mendapatkan:
 [Get the details](https://www.dicoding.com/events/5795)
 
 ## Certificate
-Maret 17, 2023 | [View](/certificate/certificate.pdf)
+Mar 17, 2023 | [View](certificate/certificate.pdf)
