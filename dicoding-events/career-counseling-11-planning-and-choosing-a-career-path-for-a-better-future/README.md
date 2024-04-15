@@ -14,4 +14,4 @@ Senior Account Manager for Dicoding Jobs at Dicoding
 [Get the details](https://www.dicoding.com/events/6708)
 
 ## Certificate
-Mar 17, 2023 | [View](certificate/certificate.pdf)
+Nov 21, 2023 | [View](certificate/certificate.pdf)
