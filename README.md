@@ -9,6 +9,8 @@ Discover the certificates I've earned from a variety of courses, training sessio
 
 ## Events that I have attended
 
+- **[Dicoding Jobs Live #5 - Membangun Kesan Tak Terlupakan: Keterampilan Komunikasi dan Ekspresi Diri dalam Wawancara Kerja](dicoding-events/dicoding-jobs-live-5-keterampilan-komunikasi-dan-ekspresi-diri/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/7188) at Dec 11, 2023 | [View certificate](dicoding-events/dicoding-jobs-live-5-keterampilan-komunikasi-dan-ekspresi-diri/certificate/certificate.pdf)
+
 - **[GDSC iSTTS X Sosialisasi Bangkit 2024](dicoding-events/gdsc-istts-x-sosialisasi-bangkit-2024/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/7158) at Dec 9, 2023 | [View certificate](dicoding-events/gdsc-istts-x-sosialisasi-bangkit-2024/certificate/certificate.pdf)
 
 - **[Dicoding Developer Coaching #118 : DevOps Engineer | Continuous Integration](dicoding-events/dicoding-developer-coaching-118-devops-engineer-continuous-integration/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/6938) at Dec 5, 2023 | [View certificate](dicoding-events/dicoding-developer-coaching-118-devops-engineer-continuous-integration/certificate/certificate.pdf)
