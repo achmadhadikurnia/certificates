@@ -17,6 +17,8 @@ Discover the certificates I've earned from a variety of courses, training sessio
 
 - **[Belajar Membuat Front-End Web untuk Pemula](dicoding/belajar-membuat-front-end-web-untuk-pemula/README.md)**, pubished by [Dicoding](https://www.dicoding.com/academies/315) at Oct 17, 2022 | [View certificate](https://www.dicoding.com/certificates/MEPJK5EN4X3V)
 
+- **[Belajar Dasar Pemrograman Javascript](dicoding/belajar-dasar-pemrograman-javascript/README.md)**, pubished by [Dicoding](https://www.dicoding.com/academies/256) at Oct 13, 2022 | [View certificate](https://www.dicoding.com/certificates/07Z6GKJ92XQR)
+
 - **[Belajar Dasar Pemrograman Web](dicoding/belajar-dasar-pemrograman-web/README.md)**, pubished by [Dicoding](https://www.dicoding.com/academies/123) at Sep 5, 2022 | [View certificate](https://www.dicoding.com/certificates/ERZRM61YQPYV)
 
 ## Events that I have attended
