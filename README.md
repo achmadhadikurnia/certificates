@@ -17,6 +17,8 @@ Discover the certificates I've earned from a variety of courses, training sessio
 
 - **[Belajar Membuat Front-End Web untuk Pemula](dicoding/belajar-membuat-front-end-web-untuk-pemula/README.md)**, pubished by [Dicoding](https://www.dicoding.com/academies/315) at Oct 17, 2022 | [View certificate](https://www.dicoding.com/certificates/MEPJK5EN4X3V)
 
+- **[Belajar Dasar Pemrograman Web](dicoding/belajar-dasar-pemrograman-web/README.md)**, pubished by [Dicoding](https://www.dicoding.com/academies/123) at Sep 5, 2022 | [View certificate](https://www.dicoding.com/certificates/ERZRM61YQPYV)
+
 ## Events that I have attended
 
 - **[Dicoding Jobs Live #5 - Membangun Kesan Tak Terlupakan: Keterampilan Komunikasi dan Ekspresi Diri dalam Wawancara Kerja](dicoding-events/dicoding-jobs-live-5-keterampilan-komunikasi-dan-ekspresi-diri/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/7188) at Dec 11, 2023 | [View certificate](dicoding-events/dicoding-jobs-live-5-keterampilan-komunikasi-dan-ekspresi-diri/certificate/certificate.pdf)
