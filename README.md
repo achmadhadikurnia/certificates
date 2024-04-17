@@ -1,7 +1,7 @@
 # My Certificate Showcase 🎓
 Discover the certificates I've earned from a variety of courses, training sessions, educational programs, and events.
 
-## Machine Learning Mastery
+## ML/AI/DS/DE Mastery
 
 - **[Belajar Pengembangan Machine Learning](dicoding/belajar-pengembangan-machine-learning/README.md)**, pubished by [Dicoding](https://www.dicoding.com/academies/185) at Dec 29, 2023 | [View certificate](https://www.dicoding.com/certificates/JMZVD3OLQZN9)
 
@@ -9,7 +9,13 @@ Discover the certificates I've earned from a variety of courses, training sessio
 
 - **[Belajar Dasar Visualisasi Data](dicoding/belajar-dasar-visualisasi-data/README.md)**, pubished by [Dicoding](https://www.dicoding.com/academies/177) at Sep 26, 2023 | [View certificate](https://www.dicoding.com/certificates/6RPN4VL9QX2M)
 
+- **[Pelatihan APCICT dengan tema Frontier ICTs for Sustainable Development (Artificial Intelligence, Internet of Things, and Blockchain)](bpptik/pelatihan-frontier-icts-for-sustainable-development-2023/README.md)**, pubished by [BPPTIK](https://bpptik.kominfo.go.id/Publikasi/detail/dibuka-pendaftaran-pelatihan-frontier-icts-for-sustainable-development-artificial-intelligence-internet-of-things-and-block-chain-tahun-2023) at Sep 1, 2023 | [View certificate](bpptik/pelatihan-frontier-icts-for-sustainable-development-2023/certificate/kemkominfo-certificate.pdf)
+
+## Cloud Mastery
+
 - **[Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](dicoding/cloud-practitioner-essentials-belajar-dasar-aws-cloud/README.md)**, pubished by [Dicoding](https://www.dicoding.com/academies/251) at Jul 31, 2023 | [View certificate](https://www.dicoding.com/certificates/72ZD8680QZYW)
+
+## Programming Mastery
 
 - **[Belajar Prinsip Pemrograman SOLID](dicoding/belajar-prinsip-pemrograman-solid/README.md)**, pubished by [Dicoding](https://www.dicoding.com/academies/169) at Jul 9, 2023 | [View certificate](https://www.dicoding.com/certificates/6RPNWO3K9P2M)
 
