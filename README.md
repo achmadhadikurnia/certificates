@@ -7,6 +7,8 @@ Discover the certificates I've earned from a variety of courses, training sessio
 
 - **[Belajar Machine Learning untuk Pemula](dicoding/belajar-machine-learning-untuk-pemula/README.md)**, pubished by [Dicoding](https://www.dicoding.com/academies/184) at Oct 4, 2023 | [View certificate](https://www.dicoding.com/certificates/L4PQ8E5G4ZO1)
 
+- **[Belajar Dasar Visualisasi Data](dicoding/belajar-dasar-visualisasi-data/README.md)**, pubished by [Dicoding](https://www.dicoding.com/academies/177) at Sep 26, 2023 | [View certificate](https://www.dicoding.com/certificates/6RPN4VL9QX2M)
+
 - **[Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](dicoding/cloud-practitioner-essentials-belajar-dasar-aws-cloud/README.md)**, pubished by [Dicoding](https://www.dicoding.com/academies/251) at Jul 31, 2023 | [View certificate](https://www.dicoding.com/certificates/72ZD8680QZYW)
 
 - **[Belajar Prinsip Pemrograman SOLID](dicoding/belajar-prinsip-pemrograman-solid/README.md)**, pubished by [Dicoding](https://www.dicoding.com/academies/169) at Jul 9, 2023 | [View certificate](https://www.dicoding.com/certificates/6RPNWO3K9P2M)
