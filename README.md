@@ -15,6 +15,10 @@ Discover the certificates I've earned from a variety of courses, training sessio
 
 - **[Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](dicoding/cloud-practitioner-essentials-belajar-dasar-aws-cloud/README.md)**, pubished by [Dicoding](https://www.dicoding.com/academies/251) at Jul 31, 2023 | [View certificate](https://www.dicoding.com/certificates/72ZD8680QZYW)
 
+## Mobile Mastery
+
+- **[Belajar Membuat Aplikasi Android untuk Pemula](dicoding/belajar-membuat-aplikasi-android-untuk-pemula/README.md)**, pubished by [Dicoding](https://www.dicoding.com/academies/51) at Aug 20, 2019 | [View certificate](https://www.dicoding.com/certificates/MRZM4D3G0XYQ)
+
 ## Programming Mastery
 
 - **[Memulai Pemrograman dengan Dart](dicoding/memulai-pemrograman-dengan-dart/README.md)**, pubished by [Dicoding](https://www.dicoding.com/academies/191) at Nov 13, 2023 | [View certificate](https://www.dicoding.com/certificates/EYX4Y3J06ZDL)
