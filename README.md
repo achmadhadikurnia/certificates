@@ -17,6 +17,8 @@ Discover the certificates I've earned from a variety of courses, training sessio
 
 ## Programming Mastery
 
+- **[Memulai Pemrograman dengan Dart](dicoding/memulai-pemrograman-dengan-dart/README.md)**, pubished by [Dicoding](https://www.dicoding.com/academies/191) at Nov 13, 2023 | [View certificate](https://www.dicoding.com/certificates/EYX4Y3J06ZDL)
+
 - **[Belajar Prinsip Pemrograman SOLID](dicoding/belajar-prinsip-pemrograman-solid/README.md)**, pubished by [Dicoding](https://www.dicoding.com/academies/169) at Jul 9, 2023 | [View certificate](https://www.dicoding.com/certificates/6RPNWO3K9P2M)
 
 - **[Belajar Membuat Aplikasi Back-End untuk Pemula](dicoding/belajar-membuat-aplikasi-back-end-untuk-pemula/README.md)**, pubished by [Dicoding](https://www.dicoding.com/academies/261) at May 4, 2023 | [View certificate](https://www.dicoding.com/certificates/MEPJVKL6QP3V)
