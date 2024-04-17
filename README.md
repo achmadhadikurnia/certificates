@@ -7,6 +7,8 @@ Discover the certificates I've earned from a variety of courses, training sessio
 
 - **[Belajar Machine Learning untuk Pemula](dicoding/belajar-machine-learning-untuk-pemula/README.md)**, pubished by [Dicoding](https://www.dicoding.com/academies/184) at Oct 4, 2023 | [View certificate](https://www.dicoding.com/certificates/L4PQ8E5G4ZO1)
 
+- **[Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](dicoding/cloud-practitioner-essentials-belajar-dasar-aws-cloud/README.md)**, pubished by [Dicoding](https://www.dicoding.com/academies/251) at Jul 31, 2023 | [View certificate](https://www.dicoding.com/certificates/72ZD8680QZYW)
+
 ## Events that I have attended
 
 - **[Dicoding Jobs Live #5 - Membangun Kesan Tak Terlupakan: Keterampilan Komunikasi dan Ekspresi Diri dalam Wawancara Kerja](dicoding-events/dicoding-jobs-live-5-keterampilan-komunikasi-dan-ekspresi-diri/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/7188) at Dec 11, 2023 | [View certificate](dicoding-events/dicoding-jobs-live-5-keterampilan-komunikasi-dan-ekspresi-diri/certificate/certificate.pdf)
