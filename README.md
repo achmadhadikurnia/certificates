@@ -3,6 +3,8 @@ Discover the certificates I've earned from a variety of courses, training sessio
 
 ## ML/AI/DS/DE Mastery
 
+- **[Microsoft Azure AI Fundamentals](dicoding/microsoft-azure-ai-fundamentals/README.md)**, pubished by [Telanta AI](https://talentaid.biji-biji.com/) at May 19, 2024 | [View certificate](https://talentaid.biji-biji.com/storage/certificates/Certificate_73559_37_ur8bo.pdf?sv=2019-07-07&sr=b&sig=oXp5sI7k4Gh9xh6lRr1NN7LZ0InNeN1K1IWfigvscgE%3D&se=2024-05-26T09%3A55%3A40Z&sp=r)
+
 - **[Belajar Pengembangan Machine Learning](dicoding/belajar-pengembangan-machine-learning/README.md)**, pubished by [Dicoding](https://www.dicoding.com/academies/185) at Dec 29, 2023 | [View certificate](https://www.dicoding.com/certificates/JMZVD3OLQZN9)
 
 - **[Belajar Machine Learning untuk Pemula](dicoding/belajar-machine-learning-untuk-pemula/README.md)**, pubished by [Dicoding](https://www.dicoding.com/academies/184) at Oct 4, 2023 | [View certificate](https://www.dicoding.com/certificates/L4PQ8E5G4ZO1)
