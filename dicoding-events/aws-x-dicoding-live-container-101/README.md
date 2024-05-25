@@ -12,4 +12,4 @@ Acara ini akan memberikan penjelasan dan contoh penggunaan teknologi container d
 [Get the details](https://www.dicoding.com/events/5980)
 
 ## Certificate
-Maret 17, 2023 | [View](certificate/certificate.pdf)
+Mar 17, 2023 | [View](certificate/certificate.pdf)
