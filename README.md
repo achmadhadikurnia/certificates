@@ -41,6 +41,8 @@ Discover the certificates I've earned from a variety of courses, training sessio
 
 - **[DevCoach 147 : Front-End | Melangkah Lebih Jauh dengan Lit](dicoding-events/devcoach-147-front-end-melangkah-lebih-jauh-dengan-lit/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/8457) at Apr 19, 2024 | [View certificate](dicoding-events/devcoach-147-front-end-melangkah-lebih-jauh-dengan-lit/certificate/certificate.pdf)
 
+- **[IDCamp Alumni Dialogue #3 - Leadership in the Digital Age](dicoding-events/idcmp-alumni-dialogue-3-leadership-in-the-digital-age/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/7803) at Feb 21, 2024 | [View certificate](dicoding-events/idcmp-alumni-dialogue-3-leadership-in-the-digital-age/certificate/certificate.pdf)
+
 - **[Dicoding Jobs Live #5 - Membangun Kesan Tak Terlupakan: Keterampilan Komunikasi dan Ekspresi Diri dalam Wawancara Kerja](dicoding-events/dicoding-jobs-live-5-keterampilan-komunikasi-dan-ekspresi-diri/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/7188) at Dec 11, 2023 | [View certificate](dicoding-events/dicoding-jobs-live-5-keterampilan-komunikasi-dan-ekspresi-diri/certificate/certificate.pdf)
 
 - **[GDSC iSTTS X Sosialisasi Bangkit 2024](dicoding-events/gdsc-istts-x-sosialisasi-bangkit-2024/README.md)**, pubished by [Dicoding](https://www.dicoding.com/events/7158) at Dec 9, 2023 | [View certificate](dicoding-events/gdsc-istts-x-sosialisasi-bangkit-2024/certificate/certificate.pdf)
