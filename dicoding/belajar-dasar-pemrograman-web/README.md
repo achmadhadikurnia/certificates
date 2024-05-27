@@ -8,4 +8,4 @@ Dicoding | [View](https://www.dicoding.com/academies/123)
 - [x] [Profilku](https://github.com/achmadhadikurnia/profilku-dicoding-submission)
 
 ## Certificate
-Sep 5, 2022 | [View](https://www.dicoding.com/certificates/ERZRM61YQPYV)
+May 27, 2024 | [View](https://www.dicoding.com/certificates/N9ZOMM9LDPG5)
