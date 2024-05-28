@@ -15,7 +15,7 @@ Discover the certificates I've earned from a variety of courses, training sessio
 
 ## Cloud Mastery
 
-- **[Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](dicoding/cloud-practitioner-essentials-belajar-dasar-aws-cloud/README.md)**, issued by [Dicoding](https://www.dicoding.com/academies/251) at Jul 31, 2023 | [View certificate](https://www.dicoding.com/certificates/72ZD8680QZYW)
+- **[Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](dicoding/cloud-practitioner-essentials-belajar-dasar-aws-cloud/README.md)**, issued by [Dicoding](https://www.dicoding.com/academies/251) at May 28, 2024 | [View certificate](https://www.dicoding.com/certificates/72ZD8680QZYW)
 
 ## Mobile Mastery
 
