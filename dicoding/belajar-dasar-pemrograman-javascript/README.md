@@ -5,4 +5,4 @@ Pelajari dasar JavaScript, dari fundamental, sintaks dan fitur ES6, hingga konse
 Dicoding | [View](https://www.dicoding.com/academies/256)
 
 ## Certificate
-Oct 13, 2022 | [View](https://www.dicoding.com/certificates/07Z6GKJ92XQR)
+May 28, 2024 | [View](https://www.dicoding.com/certificates/NVP7QQ3WGZR0)
