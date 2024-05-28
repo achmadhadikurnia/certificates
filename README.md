@@ -23,6 +23,8 @@ Discover the certificates I've earned from a variety of courses, training sessio
 
 ## Programming Mastery
 
+- **[Belajar Membuat Front-End Web untuk Pemula](dicoding/belajar-membuat-front-end-web-untuk-pemula/README.md)**, issued by [Dicoding](https://www.dicoding.com/academies/315) at May 28, 2024 | [View certificate](https://www.dicoding.com/certificates/NVP7QQND4ZR0)
+
 - **[Belajar Dasar Pemrograman Web](dicoding/belajar-dasar-pemrograman-web/README.md)**, issued by [Dicoding](https://www.dicoding.com/academies/123) at May 27, 2024 | [View certificate](https://www.dicoding.com/certificates/ERZRM61YQPYV)
 
 - **[Memulai Pemrograman dengan Dart](dicoding/memulai-pemrograman-dengan-dart/README.md)**, issued by [Dicoding](https://www.dicoding.com/academies/191) at Nov 13, 2023 | [View certificate](https://www.dicoding.com/certificates/EYX4Y3J06ZDL)
@@ -32,8 +34,6 @@ Discover the certificates I've earned from a variety of courses, training sessio
 - **[Belajar Prinsip Pemrograman SOLID](dicoding/belajar-prinsip-pemrograman-solid/README.md)**, issued by [Dicoding](https://www.dicoding.com/academies/169) at Jul 9, 2023 | [View certificate](https://www.dicoding.com/certificates/6RPNWO3K9P2M)
 
 - **[Belajar Membuat Aplikasi Back-End untuk Pemula](dicoding/belajar-membuat-aplikasi-back-end-untuk-pemula/README.md)**, issued by [Dicoding](https://www.dicoding.com/academies/261) at May 4, 2023 | [View certificate](https://www.dicoding.com/certificates/MEPJVKL6QP3V)
-
-- **[Belajar Membuat Front-End Web untuk Pemula](dicoding/belajar-membuat-front-end-web-untuk-pemula/README.md)**, issued by [Dicoding](https://www.dicoding.com/academies/315) at Oct 17, 2022 | [View certificate](https://www.dicoding.com/certificates/MEPJK5EN4X3V)
 
 - **[Belajar Dasar Pemrograman Javascript](dicoding/belajar-dasar-pemrograman-javascript/README.md)**, issued by [Dicoding](https://www.dicoding.com/academies/256) at Oct 13, 2022 | [View certificate](https://www.dicoding.com/certificates/07Z6GKJ92XQR)
 
